@@ -1,8 +1,9 @@
 'use strict';
 
 function abbrevName(name){
-  getLastInitial = name.split(' ');
-  return name.charAt(0) + '.' + getLastInitial[1].charAt();
+  getLastInitial = name.split(' ')
+  return `${name.charAt().toUpperCase()}.${getLastInitial[1].charAt().toUpperCase()}`;
+
 }
 
-abbrevName('Sam Harris');
+abbrevName();
