@@ -17,4 +17,4 @@ The elements in the returned array should be in the same order as in the initial
 
 # Link to Challenge:
 
-https://www.codewars.com/kata/filter-out-the-geese/train/javascript
+https://www.codewars.com/kata/filter-out-the-geese
